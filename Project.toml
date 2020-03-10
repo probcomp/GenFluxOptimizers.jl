@@ -1,0 +1,8 @@
+name = "GenFluxOptimizers"
+uuid = "487824e9-4416-4e9e-a6b7-b048e2760287"
+authors = ["alex-lew <alexl.mail@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+Gen = "ea4f424c-a589-11e8-07c0-fd5c91b9da4a"
