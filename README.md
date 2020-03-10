@@ -1,6 +1,6 @@
 # GenFluxOptimizers.jl
 
-A plugin for [Gen](https://github.com/probcomp/Gen), enabling the use of any of [Flux](https://github.com/FluxML/Flux.jl)'s optimizers for parameter learning in generative functions from Gen's static or dynamic modeling languages.
+A plugin for [Gen](https://github.com/probcomp/Gen), enabling the use of any of [Flux](https://github.com/FluxML/Flux.jl)'s [optimizers](https://fluxml.ai/Flux.jl/stable/training/optimisers/#Optimiser-Reference-1) for parameter learning in generative functions from Gen's static or dynamic modeling languages.
 
 ```julia
 using Gen
